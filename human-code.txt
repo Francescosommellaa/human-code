@@ -1,0 +1,96 @@
+Scansionare un documento su più fogli fronte-retro
+
+La pratica perduta
+
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2021 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
+
+
+
+/Prendere il Computer
+	-Premere il tasto di accensione
+	-Inserire la password
+	-Verificare lo stato della batteria
+
+		SE La batteria è scarica allora
+		- Collegare il cavo
+
+		ALTRIMENTI
+		- Procedere 
+
+	
+/Prendere lo scanner
+	- Posizionarlo vicino il computer
+	- Collegarlo alla rete elettrica
+	- Premere il tasto di accensione
+		
+		SE Non si avvia
+		- Verificare il corretto collegamento elettrico
+
+		ALTRIMENTI
+ 		-Procedere
+
+	
+		
+		
+
+/Tornare al computer 
+	- Collegare il computer allo scanner tramite wi-fi
+		
+		SE Non funziona il collegamento wi-fi
+		- Verificare entrambe le connessioni e il router
+		SE Il problema sussiste 
+		- Collegare tramite cavo i dispositivi
+		
+	- Verificare la presenza del software per la scannerizzazione
+
+		SE Non è presente 
+		- Scaricare il software adatto
+		- Installare il software
+		- Configurare il software
+		- Avviare il software
+
+		ALTRIMENTI 
+		- Procedere
+
+	- Creare la cartella per la pratica
+ 		- Nominare la cartella
+		- Posizionarla nella cartella delle pratiche
+		
+	
+/Riordinare fogli pratica
+
+	- Rimuovere eventuali graffette
+	- Verificare il corretto ordine delle pagine
+
+		SE Ci sono duplicati
+		- Rimuoverle
+
+		ALTRIMENTI 
+		- Procedere
+		
+-----------------------------	
+/Scannerizzare fronte e retro 
+
+	- Aprire lo scanner
+	- Posizionare il primo dei fogli della pratica	
+	- Chiudere lo scanner
+		
+		- Scannerizzare il fronte 
+		- Riaprire lo scanner
+		- Posizionare il foglio sul retro e scannerizzare
+		- Riaprire lo scanner
+		- Rimuovere il foglio
+
+			SE I fogli della pratica sono finiti
+			- Terminare la scansione 
+
+			ALTRIMENTI 
+			- Mettere il foglio seguente
+------------------------------		
+/Salvare i documenti scannerizzati
+
+	- Posizionarli nella cartella precedentemente creata
+
+
+
+
